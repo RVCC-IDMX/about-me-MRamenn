@@ -21,10 +21,27 @@ header {
     padding:10px;
 }
 
+/* Hero Section */
+
 #hero img {
     width:350px;
 }
 
+/* Bio Section */
+
 #bio {
     text-align:center;
+}
+
+/* Hobbies */
+
+
+/* Gallery */
+
+#gallery {
+    border: 2px solid #115DAD;
+}
+
+#gallery img {
+    max-width:100%;
 }

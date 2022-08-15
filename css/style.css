@@ -134,3 +134,10 @@ section#hobbies {
             display: block;
         }
     }
+
+    /* Contact Form */
+
+    #formElements {
+        display:grid;
+        
+    }
